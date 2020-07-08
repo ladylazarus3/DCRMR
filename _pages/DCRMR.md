@@ -16,10 +16,10 @@ The DCRMR is an RDA compliant DCRM manual aligned with the RDA element set inten
 # Co-Editors
 Michelle Mascaro, Special Collections Cataloging & Metadata Unit Head, UC San Diego
 
-Elizabeth Hobart, Special Collections Cataloging Librarian, PennState Univeristy Libraries
+Elizabeth Hobart, Special Collections Cataloging Librarian, PennState University Libraries
 
 # Editorial Group Members
-Amy Brown, Head, Special Collections Collections Technical Services, Boston College
+Amy Brown, Head, Special Collections Technical Services, Boston College
 
 Jessica Grzegorski, Principal Cataloging Librarian, Newberry Library
 

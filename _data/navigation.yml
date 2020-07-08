@@ -2,12 +2,47 @@
 main:
   - title: "Search"
     url: /docs/Search
-  - title: "DCRMR"
-    url: /docs/DCRMR/
+  - title: "Books"
+    url: DCRMR/books/
+  - title: "Serials"
+    url: DCRMR/serials/
   - title: "DCRM Suite"
     url: "http://rbms.info/dcrm/"
   - title: "RBMS/BSC Homepage"
     url: http://rbms.info/committees/bibliographic_standards/
+
+# navigation for books
+books:
+
+  - title: "Chapter 1. Title"
+    url: /title/
+    children:
+      - title: "Title of manifestation"
+        url: /books/title/Title-of-manifestation/
+      - title: "Title proper"
+        url: /books/title/Title-proper/
+      - title: "Parallel title proper"
+        url: /books/title/Parallel-title-proper/
+      - title: "Other title information"
+        url: /books/title/Other-title-information/
+      - title: "Note on title"
+        url: /books/title/Note-on-title/      
+
+
+# naviation for serials
+serials:
+
+  - title: "Chapter 4. Production Publication Distribution Manufacture"
+    url: /ppdm/
+    children:
+      - title: "Publication statement"
+        url: /serials/ppdm/Publication-statement/
+      - title: "Place of publication"
+        url: /serials/ppdm/Place-of-publication/
+      - title: "Parallel place of publication"
+        url: /serials/ppdm/Parallel-place-of-publication/
+      - title: "Name of publisher"
+        url: /serials/ppdm/Name-of-publisher/
         
 # example navigation
 docs:
