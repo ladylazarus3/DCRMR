@@ -4,7 +4,7 @@ type: docs
 title: Date of publication
 permalink: books/ppdm/Date-of-publication/
 sidebar:
-  nav: "docs"
+  nav: "books"
 ---
 
 ## Process for Gathering Public Review Comments.
