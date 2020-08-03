@@ -3,17 +3,17 @@ main:
   - title: "Search"
     url: /Search/
   - title: "Books"
-    url: /books/preface/
+    url: /books/ppdm/Date-of-publication/
   - title: "Cartographic"
-    url: /cartographic/preface/
+    url: /cartographic/ppdm/Date-of-publication/
   - title: "Graphics"
-    url: /graphics/preface/
+    url: /graphics/ppdm/Date-of-publication/
   - title: "Manuscripts"
-    url: /manuscripts/preface/
+    url: /manuscripts/ppdm/Date-of-publication/
   - title: "Music"
-    url: /music/preface/
+    url: /music/ppdm/Date-of-publication/
   - title: "Serials"
-    url: /serials/preface/
+    url: /serials/ppdm/Date-of-publication/
 
 # books navigation
 books:
