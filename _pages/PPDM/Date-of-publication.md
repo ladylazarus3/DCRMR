@@ -20,17 +20,27 @@ Please use the comment feature in the Google Document or the Google Form linked 
 1. TOC
 {:toc}
 
-## 4.205.1 Element information
+## 4.05.1 Element information
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-26b84eaa-054e-3c8c-8933-8760b9b2046f){:target="_blank"}
 
-## 4.205.2 Definition and scope
+## 4.05.2 Definition and scope
 
-<a name="4.205.2.1">4.205.2.1</a> A timespan during which a published manifestation is published, released, or issued.
+<a name="4.05.2.1">4.05.2.1</a> A timespan during which a published manifestation is published, released, or issued.
 
-## 4.205.3 General rule
+## 4.05.3 General rule
 
-<a name="4.205.3.1">4.205.3.1</a> Transcribe dates of publication as part of this element. Include the day and month, if present.
+[<a name="4.05.3.1.1">4.05.3.1.1</a> **Manuscripts**: no instruction]
+
+<a name="4.05.3.1">4.05.3.1.2</a> **Books** Transcribe dates of publication as part of this element. Include the day and month, if present.
+
+<a name="4.05.3.1.3">4.05.3.1.3</a> **Serials** Transcribe dates of publication of the first and/or last volume or issue as part of this element. Do not transcribe chronological designations as part of this element.
+
+<a name="4.05.3.1.4">4.05.3.1.4</a> **Graphics** Transcribe dates of publication as part of this element. Transcribe the date of production for unpublished material. 
+
+<a name="4.05.3.1.5">4.05.3.1.5</a> **Cartographic** For manuscripts and other unpublished material, transcribe dates of production as part of this element. For published material, transcribe dates of publication as part of this element. 
+
+<a name="4.05.3.1.6">4.05.3.1.6</a> **Music** Transcribe dates of publication as part of this element. 
 
 >Example:  
 >**`7th July 1766`**
