@@ -26,7 +26,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="6.20.1.2">6.20.1.2</a> [Sources of information](/DCRMR/books/series/)
 
-## 6.20.2 RDA definition and scope
+## 6.20.2 RDA definition and scope blah
 
 <a name="6.20.2.1">6.20.2.1</a> A statement that identifies a series that is associated with a manifestation and a numbering of a manifestation within the series.
 
