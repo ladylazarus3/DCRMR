@@ -70,6 +70,11 @@ Ignore typographical devices that are used as separators, etc.
 
 <a name="0.5.1.4">0.5.1.4</a> Convert earlier forms of letters and symbols to their modern forms.
 
+| Source| Transcription| Example| Transcription of example| Notes |
+| --- | ---| --- |
+| ![d](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/letterform%20d.jpg)| d| ![dethe](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/letterform%20d%20example.jpg)| dethe| |
+| | ij| | alijs ooghelijck | Liguature italic **ij** may look like **&#255;**|
+
 ![Early letterforms and symbols](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early letterforms and symbols.png "chart of early letterforms and symbols")
 
 ## 0.5.1.5 Brevigraphs
