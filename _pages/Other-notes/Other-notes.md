@@ -34,15 +34,43 @@ sidebar:
 
 <a name="7.04.1">7.04.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific rules, e.g., [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/), notes on [Data provenance](/DCRMR/general-rules/Data-provenance/).  Required notes include:
 
-+ accompanying material (see [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by-manifestation), [7.295.3.1](/DCRMR/other-notes/Accompanied-by-manifestation#7.295.3.1))  
-+ advertisements (see [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4.1](/DCRMR/other-notes/Supplementary-content/#7.232.4.1) and [7.232.5.1](/DCRMR/other-notes/Supplementary-content/#7.232.5.1))
-+ bibliographic volumes different from physical volumes (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.3.95](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.95))  
-+ chronograms (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/), [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1); [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1))   
-+ collection-level records (see [Appendix B](/DCRMR/appendices/Appendix-b/), [X.X.X.X](/DCRMR/appendices/Appendix-b/#X.X.X.X))   
-+ conjectural dates of publication, distribution, and manufacture (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/), [4.206.8.7](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.7); [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.8.7](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.7); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.8.7](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.7))
-+ date of publication  
+* Note on publication statement (4.206)
+	* chronograms (if applying option at 4.205.4.3 / 4.206.8.1)
+	* conjectural dates of publication (4.205.6.1 / 4.206.8.7)
+	* Julian/Old Style dates (4.205.4.8 / 4.206.8.4)
+	* date of publication on part pages (4.205.9.1 / 4.206.8.91)
+
+* Note on distribution statement (4.216)
+	* chronograms (if applying option at 4.215.4.3 / 4.216.8.1)
+	* conjectural dates of publication (4.215.6.1 / 4.216.8.7)
+	* Julian/Old Style dates (4.215.4.8 / 4.216.8.4)
+	* date of distribution on part pages (4.215.9.1 / 4.206.8.92)
+
+* Note on manufacture statement (4.226)
+	* chronograms (if applying option at 4.225.5.3 / 4.226.8.1)
+	* conjectural dates of publication (4.225.7.1 / 4.226.8.7)
+	* Julian/Old Style dates (4.226.4.8 / 4.226.8.4)
+	* date of manufacture on part pages (4.225.91.1 / 4.226.8.91)
+
+* Note on extent of manifestation (5.201)
+	* number of bibliographic volumes differs from the number of physical volumes (see 5.20.99.1 / 5.201.3.95)
+	* discontinued publications (5.20.993.1 / 5.201.3.97)
+
+* Accompanied by manifestation (9.31)
+	* always required if applicable **ALT note**: this is 'accompanying material' in DCRM(B)
+
+* Supplementary content
+	* advertisements (see 5.20.7.2 / 7.232.4.1) 
+
+--------------------
+
+
+* collection-level records
+	* ALT note: N/A, move to Future Work; reference in DCMR(B) is B4(500) "500 Always include as the first note the statement "Collection title devised by cataloger."
+	
 + devised titles  
-+ discontinued publications  
+	* ALT note: N/A? reference in DCRM(B) is to B4 (500), which is the same devised title note in referred to in collection-level records above
+ 
 + double leaves  
 + edition statement  
 + edition statement lacking  
@@ -63,6 +91,15 @@ sidebar:
 + title page counted as plate
 + title proper
 + transposition
+
+
++ accompanying material (see [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by-manifestation), [7.295.3.1](/DCRMR/other-notes/Accompanied-by-manifestation#7.295.3.1))  
++ 
+advertisements (see [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4.1](/DCRMR/other-notes/Supplementary-content/#7.232.4.1) and [7.232.5.1](/DCRMR/other-notes/Supplementary-content/#7.232.5.1))
++ bibliographic volumes different from physical volumes (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.3.95](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.95))  
++ chronograms (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/), [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1); [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1))   
++ collection-level records (see [Appendix B](/DCRMR/appendices/Appendix-b/), [X.X.X.X](/DCRMR/appendices/Appendix-b/#X.X.X.X))   
++ conjectural dates of publication, distribution, and manufacture (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/), [4.206.8.7](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.7); [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.8.7](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.7); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.8.7](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.7))
 + 
 
 ## Table of Contents
