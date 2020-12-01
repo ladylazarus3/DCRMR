@@ -10,6 +10,7 @@
   @include clearfix;
   margin: 0 auto;
   max-width: 100%;
+  padding-top: 40px;
   padding-left: 1em;
   padding-right: 1em;
   font-family: $serif;
@@ -23,7 +24,7 @@
   }
 
   ol {
-    padding: 0;
+    padding-top: 20px;
     list-style: none;
     font-size: $type-size-6;
 
