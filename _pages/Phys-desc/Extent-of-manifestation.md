@@ -385,6 +385,33 @@ For a normally imposed single-folded (i.e., four-page) sheet see [6.21.422.1](/D
 
 <a name="6.21.437.1">6.21.437.1</a> If a publication planned for more than one physical unit has been or appears to have been discontinued before completion, describe the incomplete set as appropriate (i.e., record paging for a single volume or the number of volumes for multiple volumes). Always make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) indicating that no more units have been issued (see [6.215.437.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.437.1)).
 
+## 6.21.6.X.X. Extent of still images
+
+### 6.21.6.X.X. General rule
+<a name="6.21.6.X.X.">6.21.6.X.X.</a> Record extent of a resource consisting of one or more still images by giving the number of units as an arabic numeral, followed by a carrier extent unit term (see Carrier extent units, 6.21.6.X.X).
+
+<a name="6.21.6.X.X.">6.21.6.X.X.</a> *Optionally*, when the exact extent is difficult to determine, record the approximate number of items. Precede the approximate number with “approximately.”
+
+## 6.21.6.X.X. Carrier extent units
+
+<a name="6.21.6.X.X.">6.21.6.X.X.</a>  Choose a term from the list below for the carrier extent unit. If considered important, give further description in other physical details and in the note area. Record the term in singular or plural, as applicable.
+*drawing
+*painting
+*print
+
+For photographs prefer, if applicable, one of the following terms:
+*photographic negative
+*photographic print
+
+If none of the terms above are appropriate, use:
+*picture
+*another term from RDA Value Vocabularies: RDA Carrier Extent Unit
+*another concise term or terms to indicate the type of unit
+
+>Example:  
+>Extent of manifestation: <CITE>1 drawing</CITE>  
+
+
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6 — Physical Description")](/DCRMR/phys-desc/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.215 — Note on extent of manifestation")](/DCRMR/phys-desc/Note-on-extent-of-manifestation/)
